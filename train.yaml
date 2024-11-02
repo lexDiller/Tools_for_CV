@@ -1,0 +1,10 @@
+path: /home/moo/PycharmProjects/Train_Yolo/train_dirrrrr
+
+train: train
+val: valid
+test: test
+
+nc: 1
+
+names:
+  0: ribaye
